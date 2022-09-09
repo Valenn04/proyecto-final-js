@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "tipo": "Buzo",
+        "nombre": "Buzo oversized beige",
+        "precio": 11000,
+        "foto": "../media/products/Buzo oversize 1.webp"
+    }, {
+        "id": 2,
+        "tipo": "Buzo",
+        "nombre": "Buzo oversized negro",
+        "precio": 11000,
+        "foto": "../media/products/Buzo Oversize 2.webp"
+    }, {
+        "id": 3,
+        "tipo": "Saco",
+        "nombre": "Saco de paño",
+        "precio": 25000,
+        "foto": "../media/products/Saco de paño 1.webp"
+    }, {
+        "id": 4,
+        "tipo": "Saco",
+        "nombre": "Trench euro",
+        "precio": 32000,
+        "foto": "../media/products/Trench euro.webp"
+    }, {
+        "id": 5,
+        "tipo": "Buzo",
+        "nombre": "Buzo round neck",
+        "precio": 11000,
+        "foto": "../media/products/3.webp"
+    }, {
+        "id": 6,
+        "tipo": "Pantalon",
+        "nombre": "Pantalon Wide",
+        "precio": 10000,
+        "foto": "../media/products/4.webp"
+    }, {
+        "id": 7,
+        "tipo": "Remera",
+        "nombre": "Remera oversized",
+        "precio": 5300,
+        "foto": "../media/products/5.webp"
+    }, {
+        "id": 8,
+        "tipo": "Buzo",
+        "nombre": "Polera agriento",
+        "precio": 11800,
+        "foto": "../media/products/6.webp"
+    },
+    {
+        "id": 9,
+        "tipo": "Chaleco",
+        "nombre": "Chaleco marfil",
+        "precio": 10000,
+        "foto": "../media/products/chalecomarfil.webp"
+    }
+]
